@@ -1,0 +1,46 @@
+
+Algorithm:
+
+
+
+Step 1 :-
+
+   Filter only Java Files
+
+   Example :: add.java
+
+          sub.java
+
+          multiply.java
+
+          div.java
+
+Step 2 :- 
+
+        Find a Name of that Java Files
+
+   Example :: add.java ====> add
+
+                   sub.java ====> sub
+
+                   multiply.java ====> multiply
+
+                   div.java ====> div
+
+Step 3 :-
+
+   Create a folder with same name as Java Files Name
+
+        Example :: add/ 
+
+          sub/
+
+          multiply/
+
+          div/
+
+
+
+Step 4 :-
+
+   Copy a Original File and Paste into Specific Folder
